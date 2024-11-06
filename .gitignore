@@ -1,0 +1,8 @@
+.venv
+
+data/
+
+yolo11n.pt
+yolo11x.pt
+yolov8n.pt
+yolov8x.pt
